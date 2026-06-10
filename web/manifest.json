@@ -1,0 +1,35 @@
+{
+    "name": "GrindGuard — Pro Health Coach",
+    "short_name": "GrindGuard",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0A0A0F",
+    "theme_color": "#BB86FC",
+    "description": "Fortnite Pro Health Coach — track symptomen, hydrate, en level up je real life character.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
